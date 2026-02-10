@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DISCOTHEQUE",
+  "base_artist": "水樹奈々",
+  "createdAt": "2026-02-10T14:18:35.694574Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Discotheque 36",
+      "artist": "Black Francis",
+      "has_synced": false,
+      "path": "select/01_Discotheque_36_Black_Francis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Discothèque (DM radio mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/02_Discothèque_(DM_radio_mix)_U2.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Discotheque - DM Deep Club Mix",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/03_Discotheque_-_DM_Deep_Club_Mix_U2.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Discothèque (Hexidecimal Mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/04_Discothèque_(Hexidecimal_Mix)_U2.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Discotheque - Howie B, Hairy B Mix",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/05_Discotheque_-_Howie_B,_Hairy_B_Mix_U2.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crying at the Discotheque",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/06_Crying_at_the_Discotheque_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Backwoods Discotheque II",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/07_Backwoods_Discotheque_II_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Backwoods Discotheque (Part II)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/08_The_Backwoods_Discotheque_(Part_II)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Theme From Discotheque",
+      "artist": "Samantha Fu",
+      "has_synced": true,
+      "path": "select/09_Theme_From_Discotheque_Samantha_Fu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Theme From Discotheque (Soulwax Remix)",
+      "artist": "Samantha Fu",
+      "has_synced": true,
+      "path": "select/10_Theme_From_Discotheque_(Soulwax_Remix)_Samantha_Fu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Stop - Discotheque",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/11_Never_Stop_-_Discotheque_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Stop (Discotheque)",
+      "artist": "Echo & the Bunnymen",
+      "has_synced": true,
+      "path": "select/12_Never_Stop_(Discotheque)_Echo_&_the_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Discothèque (Hexidecimal Mix)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/13_Discothèque_(Hexidecimal_Mix)_U2.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Discothèque",
+      "artist": "Janie",
+      "has_synced": true,
+      "path": "select/14_Discothèque_Janie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Discotheque",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/15_Discotheque_U2.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Discotheque",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/16_Discotheque_U2.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Discotheque (Hexidecimal mix)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/17_Discotheque_(Hexidecimal_mix)_U2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DISCOTHEQUE",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_DISCOTHEQUE_水樹_奈々.txt"
+    }
+  ]
+}
